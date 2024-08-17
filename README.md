@@ -36,10 +36,13 @@ This project involves analyzing YouTube video comments related to the GoPro Hero
 
 ## **How to Run**
 
-1. **Download the Dataset:**
-   - Obtain the dataset from the source mentioned above and save it as `processed_comments.csv`.
-
+1. Obtain a YouTube API Key to access video comments data.
 2. **Install Required Packages**
+3. Run the **data_engineering.ipynb** notebook to collect and prepare the dataset.
+4. Run the **analytics.ipynb** notebook to perform sentiment analysis and visualize the results.
+
+
+
 
 
 "Sentiment Analysis and Key Theme Identification in YouTube Comments for GoPro HERO12 Reviews Using TextBlob and LLM"
