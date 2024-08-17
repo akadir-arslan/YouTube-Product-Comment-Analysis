@@ -40,11 +40,3 @@ This project involves analyzing YouTube video comments related to the GoPro Hero
 2. **Install Required Packages**
 3. Run the **data_engineering.ipynb** notebook to collect and prepare the dataset.
 4. Run the **analytics.ipynb** notebook to perform sentiment analysis and visualize the results.
-
-
-
-
-
-"Sentiment Analysis and Key Theme Identification in YouTube Comments for GoPro HERO12 Reviews Using TextBlob and LLM"
-
-
